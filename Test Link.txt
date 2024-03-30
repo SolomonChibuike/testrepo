@@ -1,4 +1,4 @@
-https://api.proctoru.com/students/reservations?login_token=BAhpA%2B2tqg%3D%3D--9a64dae8b2ac9830c162561bd87036b7c1231fc5&reservation_no=34681129&return_to=https%3A%2F%2Fapi.proctoru.com%2Fstudents%2Freservations
+https://api.proctoru.com/students/reservations?login_token=BAhpA%2B2tqg%3D%3D--9a64dae8b2ac9830c162561bd87036b7c1231fc5&reservation_no=
 
 Test Link
 
